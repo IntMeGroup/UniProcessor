@@ -23,7 +23,7 @@ if in China, please use `--channel https://mirrors.tuna.tsinghua.edu.cn/anaconda
 ```
 cd  models/lavis
 pip install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple
-pip install opencv-contrib-python accelerate chardet cchardet huggingface_hub
+pip install opencv-contrib-python accelerate chardet cchardet huggingface_hub==0.25
 ```
 download all required packages from `lavis` and put in `models/lavis/pretrained_weights` folder.
 unzip `blip-diffusion` use the command.
