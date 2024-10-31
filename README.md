@@ -17,7 +17,7 @@ See [README_install.md](README_install.md) for the installation of dependencies 
 The used datasets can be downloaded from: [datasets](https://pan.sjtu.edu.cn/web/share/7abe8c86a5fc534842eefb926c36e4b8), using password: `cn8k`.
 
 ### Pre-trained models
-Coming soon...
+Our trained model can be downloaded from: [model](https://pan.sjtu.edu.cn/web/share/6bc57c1b6b3e43f0ea9d4f42c654417a), using password: `hicw`.
 
 ### Training
 See [README_train.md](README_train.md) for the training codes of UniProcessor.
