@@ -7,8 +7,8 @@ Follow these intructions
 
 2. Make conda environment
 ```
-conda create -n UniProcessor_arxiv python=3.8 pip
-conda activate UniProcessor_arxiv
+conda create -n UniProcessor python=3.10 pip
+conda activate UniProcessor
 ```
 
 3. Install dependencies
