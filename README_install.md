@@ -17,7 +17,7 @@ conda install pytorch==2.1.1 torchvision==0.16.1 cudatoolkit=11.3 pytorch-cuda=1
 conda install lightning -c conda-forge
 pip install -r requirements.txt
 ```
-if in China, please use `--channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/` after `conda`, and `-i https://pypi.tuna.tsinghua.edu.cn/simple` after `pip`.
+If in China, please use `--channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/` after `conda`, and `-i https://pypi.tuna.tsinghua.edu.cn/simple` after `pip`.
 
 4. Install LAVIS
 ```
@@ -25,8 +25,10 @@ cd  models/lavis
 pip install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install opencv-contrib-python accelerate chardet cchardet transformers==4.34.1 huggingface_hub==0.23.0
 ```
-download all required packages from `lavis` and put in `models/lavis/pretrained_weights` folder.
-unzip `blip-diffusion` use the command.
+Download all required packages from `lavis` and put in `models/lavis/pretrained_weights` folder. 
+All required packages can also be downloaded from: [lavis](https://pan.sjtu.edu.cn/web/share/f73602a998c98427e0ef791a4926fef1), using password: `x0hw`.
+Then put the `lavis` folder in the `models` folder.
+Unzip `blip-diffusion` use the command.
 ```
 cd models/lavis/pretrained_weights/
 tar -xf blip-diffusion.tar.gz
