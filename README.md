@@ -12,12 +12,17 @@ This is the official repo of the paper [UniProcessor: A Text-induced Unified Low
 
 ### Installation
 See [README_install.md](README_install.md) for the installation of dependencies required to run UniProcessor.
+All required downloaded resources can be downloaded here: [UniProcessor](https://pan.sjtu.edu.cn/web/share/e7b32bfc1e25885ac19107bf7315368e), using password: `eqln`.
+Or can be downloaded one-by-one using the links below.
 
 ### Data preparation
 The used datasets can be downloaded from: [datasets](https://pan.sjtu.edu.cn/web/share/7abe8c86a5fc534842eefb926c36e4b8), using password: `cn8k`.
 
 ### Pre-trained models
 Our trained model can be downloaded from: [model](https://pan.sjtu.edu.cn/web/share/6bc57c1b6b3e43f0ea9d4f42c654417a), using password: `hicw`.
+
+### Results
+The results can be downloaded from: [results](https://pan.sjtu.edu.cn/web/share/d2170a442839e1c0d7678036800e693b), using password: `ln4h`.
 
 ### Training
 See [README_train.md](README_train.md) for the training codes of UniProcessor.
