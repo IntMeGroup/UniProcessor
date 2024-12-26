@@ -26,7 +26,7 @@ pip install -e . -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install opencv-contrib-python accelerate chardet cchardet transformers==4.34.1 huggingface_hub==0.23.0
 ```
 Download all required packages from `lavis` and put in `models/lavis/pretrained_weights` folder. 
-All required packages can also be downloaded from: [lavis](https://pan.sjtu.edu.cn/web/share/f73602a998c98427e0ef791a4926fef1), using password: `x0hw`.
+All required packages can also be downloaded from: [lavis](https://pan.sjtu.edu.cn/web/share/dfeb07f25a8c43cb08682f8d5cb28dfe), using password: `cx7y`.
 Then put the `lavis` folder in the `models` folder.
 Unzip `blip-diffusion` use the command.
 ```
